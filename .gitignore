@@ -1,0 +1,9 @@
+Makefile
+tags
+tests/tests
+tests/Makefile
+*.o
+moc_*
+*.swp
+*.a
+*.un~
